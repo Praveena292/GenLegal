@@ -1,0 +1,2 @@
+# GenLegal
+Simplifies legal jargons
