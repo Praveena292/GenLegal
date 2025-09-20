@@ -1,5 +1,6 @@
 # GenLegal
 ⚖️ Legal Jargon Simplifier
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 A simple Streamlit app that uses Google Gemini to simplify complex legal text for different audiences (General Users, Lawyers, Judges).
 
