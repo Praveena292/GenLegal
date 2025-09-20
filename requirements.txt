@@ -1,0 +1,11 @@
+# Backend
+fastapi
+uvicorn
+google-generativeai
+
+# Frontend
+streamlit
+requests
+
+# Optional (for local env)
+python-dotenv
